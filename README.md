@@ -3,50 +3,47 @@
 
 ---
 
-## About Me
-- 📍 Based in Himachal Pradesh, India  
-- 🔍 Passionate about turning raw data into meaningful insights  
-- 🎓 Building real-world analytics projects and dashboards  
-- 🚀 Constantly learning: Advanced Pandas, EDA, Automation  
+## 🧑‍💻 About Me
+- 📍 From Himachal Pradesh, India  
+- 🔍 Passionate about Data Analytics & Visualization  
+- 🧠 Skilled in Python, Pandas, SQL & Power BI  
+- 🚀 Exploring real-world datasets & building analytics dashboards  
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools:** Power BI, Jupyter Notebook, Git, VS Code  
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+**Tools:** Power BI, Jupyter Notebook, Git, VS Code  
 
 ---
 
-## 📂 Projects I'm Proud Of
-Here are a few of my key projects:  
-- **Superstore Data Analysis** — Exploratory data analysis + insights on sales and profit  
-
-
-> 🔗 *More projects coming soon!*
+## 📂 Featured Project  
+### **Superstore Data Analysis**
+- Complete Exploratory Data Analysis  
+- Sales & Profit Insights  
+- Customer, Segment & Category Performance  
+- Visualizations included  
+- Cleaned & processed dataset using Pandas  
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robinsharma00007-arch&show_icons=true&theme=tokyonight"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinsharma00007-arch&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 💬 Get in Touch
-- LinkedIn: **(put your LinkedIn URL)**  
-- Email: **(your email)**  
-- Portfolio: **(if you have one)**  
+## 📬 Connect With Me
+- **LinkedIn:**  
+  [Robin Sharma](https://www.linkedin.com/in/robin-sharma-384153276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+- **Email:**  
+  **rs0678215@gmail.com**
 
 ---
 
-## 🎯 Currently Learning
-- Time series forecasting  
-- Power BI advanced features  
-- Automation with Python
-
----
-
-⭐ If you like my profile, feel free to **star my repos** or **connect with me**!
+⭐ *Thanks for visiting my profile!*
